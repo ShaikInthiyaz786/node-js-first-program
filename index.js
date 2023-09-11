@@ -4,3 +4,5 @@ const greetings = (name) => {
 
 greetings("Raju");
 greetings("Abhi");
+
+console.log("My name is Inthiyaz Basha")
